@@ -31,21 +31,21 @@
 ![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 [JWT]()
 
-### Testing 👨🏼‍🔬
+#### Testing 👨🏼‍🔬
 
 ---
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
-### Databases 💿
+#### Databases 💿
 
 ---
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### OS 🚨
+#### OS 🚨
 
 ---
 
@@ -53,7 +53,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [MacOS]()
 
-### Tools 🛠
+#### Tools 🛠
 
 ---
 
@@ -70,6 +70,6 @@
 - 📖 Now I am learning English
 
 > First LEARN...then remove the "L" </br>
-> ***Mohit Manke***
+>                                         ***Mohit Manke***
 
 ![Statik's GitHub stats](https://github-readme-stats.vercel.app/api?username=statik-coder&show_icons=true)
