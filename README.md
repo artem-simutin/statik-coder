@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on Advert Project
 - 🌱 I’m currently learning Nest.js
 - 👯 I’m looking to collaborate with Google :)
-- 🤔 I’m looking for help with 
 - 💬 Ask me about Anything
 - 📫 How to reach me: artemsimutin@gmail.com
 - 📖 Now I am learning English
