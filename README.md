@@ -42,7 +42,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-[JWT](https://img.shields.io/badge/JWT-tokens?style=for-the-badge&color=yellow)
+![JWT](https://img.shields.io/badge/JWT-tokens?style=for-the-badge&color=yellow)
 
 #### Testing 👨🏼‍🔬
 
@@ -64,7 +64,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[MacOS](https://img.shields.io/badge/MacOS-Best?style=for-the-badge&color=#00C7D1)
+![MacOS](https://img.shields.io/badge/MacOS-Best?style=for-the-badge&color=#00C7D1)
 
 #### Tools 🛠
 
