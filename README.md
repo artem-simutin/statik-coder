@@ -28,7 +28,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux-Saga](https://img.shields.io/badge/Redux-Saga-informational?style=for-the-badge)
+![Redux-Saga](https://img.shields.io/badge/Redux-Saga-informational?style=for-the-badge&color=red)
 ![Redux-Thunk](https://img.shields.io/badge/Redux-Thunk-informational?style=for-the-badge)
 ![React Hook Form](https://img.shields.io/badge/React-HookForm-informational?style=for-the-badge)
 ![Axios](https://img.shields.io/badge/Axios?style=for-the-badge)
