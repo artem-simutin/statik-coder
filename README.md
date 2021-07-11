@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, folks 👋
 
-<!--
-**statik-coder/statik-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Advert Project
+- 🌱 I’m currently learning Nest.js
+- 👯 I’m looking to collaborate on Google :)
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Anything
+- 📫 How to reach me: artemsimutin@gmail.com
+- 📖 Now I am learning English
 
-Here are some ideas to get you started:
+> “First LEARN...then remove the 'L”
+> ***Mohit Manke***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Statiks GitHub stats](https://github-readme-stats.vercel.app/api?username=statik-coder&show_icons=true)
