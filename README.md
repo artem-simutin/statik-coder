@@ -10,6 +10,11 @@
 - 📫 How to reach me: artemsimutin@gmail.com
 - 📖 Now I am learning English
 
+> First LEARN...then remove the "L" </br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Mohit Manke***
+
+![Statik's GitHub stats](https://github-readme-stats.vercel.app/api?username=statik-coder&show_icons=true&theme=tokyonight)
+
 #### Frontend Technologies ⌨️
 
 ---
@@ -68,8 +73,3 @@
 ![VSCode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-> First LEARN...then remove the "L" </br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Mohit Manke***
-
-![Statik's GitHub stats](https://github-readme-stats.vercel.app/api?username=statik-coder&show_icons=true&theme=tokyonight)
