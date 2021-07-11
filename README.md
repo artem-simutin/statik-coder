@@ -11,7 +11,7 @@
 - 📖 Now I am learning English
 
 > First LEARN...then remove the "L" </br>
->  &lt;p&gt;***Mohit Manke***
+> ***Mohit Manke***
 
 ![Statik's GitHub stats](https://github-readme-stats.vercel.app/api?username=statik-coder&show_icons=true&theme=tokyonight)
 
@@ -28,10 +28,10 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux-Saga](https://img.shields.io/badge/Redux-Saga?style=for-the-badge)
-![Redux-Thunk](https://img.shields.io/badge/Redux-Thunk?style=for-the-badge)
-![React Hook Form](https://img.shields.io/badge/React-Hook-Form!?style=for-the-badge)
-![Axios](https://img.shields.io/badge/Axios-Like!?style=for-the-badge)
+![Redux-Saga](https://img.shields.io/badge/Redux-Saga-informational?style=for-the-badge)
+![Redux-Thunk](https://img.shields.io/badge/Redux-Thunk-informational?style=for-the-badge)
+![React Hook Form](https://img.shields.io/badge/React-HookForm-informational?style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios?style=for-the-badge)
 ![i18next](https://img.shields.io/badge/i18next-Nice!?style=for-the-badge)
 ![StoryBook](https://img.shields.io/badge/StoryBook-Perfect!?style=for-the-badge)
 
