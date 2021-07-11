@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Advert Project
 - 🌱 I’m currently learning Nest.js
-- 👯 I’m looking to collaborate on Google :)
+- 👯 I’m looking to collaborate with Google :)
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Anything
 - 📫 How to reach me: artemsimutin@gmail.com
@@ -72,4 +72,4 @@
 > First LEARN...then remove the "L" </br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Mohit Manke***
 
-![Statik's GitHub stats](https://github-readme-stats.vercel.app/api?username=statik-coder&show_icons=true)
+![Statik's GitHub stats](https://github-readme-stats.vercel.app/api?username=statik-coder&show_icons=true&theme=tokyonight)
