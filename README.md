@@ -29,11 +29,11 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux-Saga](https://img.shields.io/badge/Redux-Saga-informational?style=for-the-badge&color=red)
-![Redux-Thunk](https://img.shields.io/badge/Redux-Thunk-informational?style=for-the-badge)
-![React Hook Form](https://img.shields.io/badge/React-HookForm-informational?style=for-the-badge)
-![Axios](https://img.shields.io/badge/Axios?style=for-the-badge)
-![i18next](https://img.shields.io/badge/i18next-Nice!?style=for-the-badge)
-![StoryBook](https://img.shields.io/badge/StoryBook-Perfect!?style=for-the-badge)
+![Redux-Thunk](https://img.shields.io/badge/Redux-Thunk-informational?style=for-the-badge&color=yellow)
+![React Hook Form](https://img.shields.io/badge/React-HookForm-informational?style=for-the-badge&color=red)
+![Axios](https://img.shields.io/badge/Axios?style=for-the-badge&color=blueviolet)
+![i18next](https://img.shields.io/badge/i18next-Nice!?style=for-the-badge&color=blue)
+![StoryBook](https://img.shields.io/badge/StoryBook-Perfect!?style=for-the-badge&color=ff69b4)
 
 #### Backend Technologies 👨🏼‍💻
 
