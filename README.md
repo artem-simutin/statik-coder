@@ -14,13 +14,13 @@
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux-Saga](https://img.shields.io/static/v1?style=for-the-badgelabel=Redux-Saga&message=Redux-Saga&color=success)
-[Redux-Thunk]()
-[React Hook Form]()
-[Axios]()
-[i18next]()
-[StoryBook]()
+![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)</br>
+[Redux-Saga]()</br>
+[Redux-Thunk]()</br>
+[React Hook Form]()</br>
+[Axios]()</br>
+[i18next]()</br>
+[StoryBook]()</br>
 
 #### Backend Technologies 👨🏼‍💻
 
@@ -28,7 +28,7 @@
 
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) </br>
 [JWT]()
 
 #### Testing 👨🏼‍🔬
@@ -50,7 +50,7 @@
 ---
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</br>
 [MacOS]()
 
 #### Tools 🛠
