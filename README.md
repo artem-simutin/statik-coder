@@ -11,7 +11,7 @@
 - 📖 Now I am learning English
 
 > First LEARN...then remove the "L" </br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Mohit Manke***
+>  &lt;p&gt;***Mohit Manke***
 
 ![Statik's GitHub stats](https://github-readme-stats.vercel.app/api?username=statik-coder&show_icons=true&theme=tokyonight)
 
