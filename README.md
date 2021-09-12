@@ -3,10 +3,10 @@
 ### I am Fullstack Developer from Latvia!
 
 - 🔭 I’m currently working on Advert Project
-- 🌱 I’m currently learning Nest.js
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate with Google :)
 - 💬 Ask me about Anything
-- 📫 How to reach me: artemsimutin@gmail.com
+- 📫 How to reach me: trystatik@icloud.com
 - 📖 Now I am learning English
 
 > First LEARN...then remove the "L" </br>
