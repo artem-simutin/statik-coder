@@ -3,7 +3,7 @@
 ### I am Fullstack Developer from Latvia!
 
 - 🔭 I’m currently working on Advert Project
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Vue.js
 - 👯 I’m looking to collaborate with Google :)
 - 💬 Ask me about Anything
 - 📫 How to reach me: trystatik@icloud.com
