@@ -1,13 +1,6 @@
-## Hi, folks 👋
+## Hi 👋
 
-### I am Fullstack Developer from Latvia!
-
-- 🔭 I’m currently working on Advert Project
-- 🌱 I’m currently learning Rust and Blockchain
-- 👯 I’m looking to collaborate with Google :)
-- 💬 Ask me about Anything
-- 📫 How to reach me: trystatik@icloud.com
-- 📖 Now I am learning English
+### I am Fullstack Developer !
 
 > First LEARN...then remove the "L" </br>
 > ***Mohit Manke***
